@@ -1,0 +1,8 @@
+auto
+*.log
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+*.pdf
